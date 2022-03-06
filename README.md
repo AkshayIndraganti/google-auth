@@ -30,4 +30,10 @@ Make Sure to Create a config.env file in config/config.env directory and add app
 
 DB_URI =
 
+GOOGLE_CLIENT_ID=
+
+GOOGLE_CLIENT_SECERT=
+
+GOOGLE_CALLBACK_URL=
+
 ** To Start ** - `npm run devStart`
